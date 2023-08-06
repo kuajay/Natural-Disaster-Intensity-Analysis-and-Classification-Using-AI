@@ -1,0 +1,1 @@
+# Natural-Disaster-Intensity-Analysis-and-Classification-Using-AI
